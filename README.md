@@ -1,16 +1,18 @@
 # 👋 Hi! I'm Supun Tharaka
 ### A passionate Full-Stack developer
+- 💻 I'm a BICT undergraduate specializing in Software Technology.
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 👨‍💻 All of my projects are available at <a href= "https://portfolio-zeta-ten-39.vercel.app/" target="__blank"> SupunTharaka.com</a>
+- 👨‍💻 All of my projects are available at <a href= "https://portfolio-zeta-ten-39.vercel.app/" target="__blank"> **SupunTharaka.com**</a>
 
 - 📄 Know about my experiences - <a href="https://drive.usercontent.google.com/download?id=1HFq4SgeVQej8x4o7CdfWhiFJRPgE3_MJ&export=download&authuser=0&confirm=t&uuid=cd0f40ae-2060-4b45-b40a-f63fa86e44ce&at=AN_67v0AKCsdlY28Cmw3nZUO_v0u:1730031641500](https://drive.usercontent.google.com/download?id=1HFq4SgeVQej8x4o7CdfWhiFJRPgE3_MJ&export=download&authuser=0&confirm=t&uuid=cd0f40ae-2060-4b45-b40a-f63fa86e44ce&at=AN_67v0AKCsdlY28Cmw3nZUO_v0u:1730031641500"><button>**Download CV**</button></a>
 
 - 📫 How to reach me **supuntharakaxz@gamil.com**
 
-<a href="https://www.linkedin.com/in/supun-tharaka-1a9273299/" target="_blank" >![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://discord.com/users/657844562492129281" target="_blank" >![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/supun-tharaka-1a9273299/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://discord.com/users/657844562492129281">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://portfolio-zeta-ten-39.vercel.app/">![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=folder&logoColor=white)</a>
 
 ---
 
