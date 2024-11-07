@@ -1,5 +1,13 @@
 # 👋 Hi! I'm Supun Tharaka
 
+- 🌱 I’m currently learning **MERN Stack.**
+
+- 👨‍💻 All of my projects are available at <a href= "https://portfolio-zeta-ten-39.vercel.app/" target="__blank"> SupunTharaka.com</a>
+
+- 📄 Know about my experiences - <a href="https://drive.usercontent.google.com/download?id=1HFq4SgeVQej8x4o7CdfWhiFJRPgE3_MJ&export=download&authuser=0&confirm=t&uuid=cd0f40ae-2060-4b45-b40a-f63fa86e44ce&at=AN_67v0AKCsdlY28Cmw3nZUO_v0u:1730031641500](https://drive.usercontent.google.com/download?id=1HFq4SgeVQej8x4o7CdfWhiFJRPgE3_MJ&export=download&authuser=0&confirm=t&uuid=cd0f40ae-2060-4b45-b40a-f63fa86e44ce&at=AN_67v0AKCsdlY28Cmw3nZUO_v0u:1730031641500"><button>**Download CV**</button></a>
+
+- 📫 How to reach me **supuntharakaxz@gamil.com**
+
 ---
 
 ## 💻 Tech Stack:
@@ -12,7 +20,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
 
 ---
 
