@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **supuntharakaxz@gamil.com**
 
-<a href="https://www.linkedin.com/in/supun-tharaka-1a9273299/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://discord.com/users/657844562492129281">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/supun-tharaka-1a9273299/" target="_blank" >![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://discord.com/users/657844562492129281" target="_blank" >![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 ---
 
