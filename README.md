@@ -1,4 +1,5 @@
 # 👋 Hi! I'm Supun Tharaka
+### A passionate Full-Stack developer
 
 - 🌱 I’m currently learning **MERN Stack.**
 
@@ -7,6 +8,9 @@
 - 📄 Know about my experiences - <a href="https://drive.usercontent.google.com/download?id=1HFq4SgeVQej8x4o7CdfWhiFJRPgE3_MJ&export=download&authuser=0&confirm=t&uuid=cd0f40ae-2060-4b45-b40a-f63fa86e44ce&at=AN_67v0AKCsdlY28Cmw3nZUO_v0u:1730031641500](https://drive.usercontent.google.com/download?id=1HFq4SgeVQej8x4o7CdfWhiFJRPgE3_MJ&export=download&authuser=0&confirm=t&uuid=cd0f40ae-2060-4b45-b40a-f63fa86e44ce&at=AN_67v0AKCsdlY28Cmw3nZUO_v0u:1730031641500"><button>**Download CV**</button></a>
 
 - 📫 How to reach me **supuntharakaxz@gamil.com**
+
+<a href="https://www.linkedin.com/in/supun-tharaka-1a9273299/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://discord.com/users/657844562492129281">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 ---
 
@@ -20,6 +24,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 ---
 
